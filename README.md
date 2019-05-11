@@ -16,7 +16,7 @@ After you did that, go to index.html (edit it) and create a new portfolio box
 							</div>
 						</div>
 					</div>```
-          
+        
           At the ```<img src="../assets/images/C-logo.png" alt="C Logo">``` you should type your image's name.
           Don't forget to add ".png" at the end of the name, or it won't work.
           
